@@ -104,11 +104,26 @@ p {
 }
 
 .box-image {
-  display: flex;
+  position: relative;
+  bottom: 20px;
   
 }
 
+.img1 {
+  position: absolute; 
+  top: 0;
+  left: 0; 
+
+  width: 103%; 
+  height: 100%;
+}
+
+
 .img1:hover {
   opacity: 0;
-  transition: 0.3s ease-out;
+  transition: 0.8s ease-out;
+}
+
+p {
+  font-size: 20px;
 }

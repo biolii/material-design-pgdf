@@ -26,7 +26,7 @@
         <img src="/assets/img/index imgs/Icons.svg" alt="">
       </div>
      <p>Icones</p>
-     <p>Icones que ajudam a realizar tarefas menores com apenas 
+     <p>Icones que ajudam a realizar tarefas <br> menores com apenas 
       um clique</p>
     </div>
     <div class="index-box">
