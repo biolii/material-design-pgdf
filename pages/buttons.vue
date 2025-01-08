@@ -8,11 +8,11 @@
     <p>Botôes</p>
   </div>
   <div class="index-box4">
-   <button class="btn-style ">Elevado</button>
+   <button class="btn-style btn-elevado">Elevado</button>
    <button class="btn-style">Preenchido</button>
    <button class="btn-style btn-alternativo">Alternativo</button>
    <button class="btn-traçado">Traçado</button>
-   <button class="btn-style">Texto</button>
+   <button class="btn-text">Texto</button>
   </div>
 </template>
 

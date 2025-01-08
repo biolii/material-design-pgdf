@@ -119,6 +119,11 @@ height: 80px;
   border-radius: 10px;
   width: 150px;
   height: 300px;
+  
+}
+
+.btn-elevado {
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
 }
 
 .btn-style:hover {
@@ -131,6 +136,15 @@ height: 80px;
 
 .btn-alternativo:hover {
   background-color: #c7a529;
+}
+
+.btn-text {
+  background-color: none;
+  color: #2764AD;
+  padding: 6px;
+  border-radius: 10px;
+  width: 150px;
+  height: 300px;
 }
 
 .btn-traçado {
